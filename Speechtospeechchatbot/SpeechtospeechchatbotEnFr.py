@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 26 16:19:33 2022
 
-@author: Feyn
+@author: Daniel Feyn(ris) Ma
 """
 import pyaudio
 import wave
